@@ -13,7 +13,8 @@ int main()
 	int matrix1[16];
 	int matrix2[16];
 	int matrix3[16];
-
+	
+	// user inputs
 	cout << "Please enter 4 numbers for the first row of the matrix in order separated by spaces." << endl;
 	cin >> matrix1[0] >> matrix1[1] >> matrix1[2] >> matrix1[3];
 
@@ -42,12 +43,16 @@ int main()
 	matrix2[13] = matrix1[7];
 	matrix2[14] = matrix1[11];
 	matrix2[15] = matrix1[15];
+	
+	//calculation
 
 	for (int i = 0; i < 16; i++) {
 
 		matrix3[i] = matrix1[i] + matrix2[i];
 
 	}
+	
+	//outputs
 
 	cout << "Matrix 1." << endl;
 	cout << "=========" << endl;
