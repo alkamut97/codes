@@ -1,6 +1,8 @@
-// Name: Alka Mutnjakovic 
-// Student ID: 400091257
-// Programming Challenge #11: Monthly Budget
+/*
+Developer: Alka Mutnjakovic
+Environment: C++
+Description: This program tells you if you went over budget for various expenses during the month. 
+*/
 
 
 #include <iostream>
