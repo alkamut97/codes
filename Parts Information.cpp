@@ -1,11 +1,7 @@
 /*
-Program Name: Lab 9 Question 1
 Developer: Alka Mutnjakovic
-Environment: Microsoft Visual C++ Express 2012
-Description: This is a program that saves information about parts into a file
-Variable: char, float, int
-Constant: none
-Function: none
+Environment: C++
+Description: This is a program that saves information about parts into a file. 
 */
 
 
