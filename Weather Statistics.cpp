@@ -1,6 +1,10 @@
-// Name: Alka Mutnjakovic
-// Student ID: 400091257 
-// Programming Challenge #4: Weather Statistics
+/*
+Developer: Alka Mutnjakovic
+Environment: C++
+Description: This program allows user input for total rainfall, high temperature, low temperature,
+and average temperature for various months. The program outputs which months had the highest and lowest values for each
+category. 
+*/
 
 
 #include <iostream>
