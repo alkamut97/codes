@@ -1,4 +1,19 @@
-
+/*
+Developer: Alka Mutnjakovic
+Environment: C++
+Description: This program was written for a final project for my first year Object Oriented Programming class. 
+The purpose of this program is to make accessing student information easier. This program acts as a student 
+information system for Bachelor of Technology students which shows a record of the student (info, grades, courses.)
+This program includes a function that calculates current gpa, final gpa and the final grade needed for the student to 
+attain their inputted final grade goal. 
+This program includes 3 classes, one for student class, second being a course class, 
+and third being courses needed for the student to graduate.
+This program includes pointers that will be used to link all the void and major classes to sub classes.
+This program utilises infile/outfile which is used to store inputted student information like password entry and student
+identification. 3 text files are included which list all classes for automation stream, automotive stream, and biotechnology
+stream. 
+This program also includes header files. One header file is for student class, one for course class and one for required classes.
+*/
 
 #include <iomanip>
 #include <fstream>
